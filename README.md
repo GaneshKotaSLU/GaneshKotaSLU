@@ -52,7 +52,8 @@ I'm a skilled Data Scientist with 5+ years of experience in ML model development
 He/Him
 
 ## ⚡ Fun fact
-I once optimized a data processing pipeline that reduced computation time by 50% using cloud technologies!
+I taught my smart home assistant to respond to "Hey, Computer" in my best Star Trek impression. Now I feel like Captain Picard every time I adjust the thermostat!
+
 
 ---
 
