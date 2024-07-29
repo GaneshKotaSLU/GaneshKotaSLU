@@ -41,7 +41,7 @@ I'm a skilled Data Scientist with 7+ years of experience in ML model development
 - Innovative applications of NLP and Computer Vision
 
 ## 📫 How to reach me
-- Email: ganesh@mywebemails.com
+- Email: ganeshkota.4all@gmail.com
 - Phone: (314)-229-2191
 - LinkedIn: [Ganesh Kota](http://www.linkedin.com/in/ganesh-kota)
 - Portfolio: [My Portfolio](https://www.ganeshkota.com)
