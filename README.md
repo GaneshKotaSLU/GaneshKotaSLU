@@ -20,6 +20,7 @@ I'm a skilled Data Scientist with 5+ years of experience in ML model development
 - B.Tech in Electronics and Communication Engineering, Narasaraopeta Engineering College (2013-2017)
 
 ## 💼 Professional Experience
+- Statistical Data Analytics Professor at Saint Louis Unoversity (01/2023 - 05/2024)
 - Data Scientist at Robert Half (04/2024 – Present)
 - Data Scientist at L&T Technological Services (01/2022 – 07/2022)
 - Data Scientist at Accenture Solutions (02/2019 – 05/2021)
