@@ -43,8 +43,9 @@ I'm a skilled Data Scientist with 7+ years of experience in ML model development
 ## 📫 How to reach me
 - Email: ganesh@mywebemails.com
 - Phone: (314)-229-2191
-- LinkedIn: [Ganesh Kota](Your LinkedIn URL)
-- Portfolio: [My Portfolio](Your Portfolio URL)
+- LinkedIn: [Ganesh Kota](http://www.linkedin.com/in/ganesh-kota)
+- Portfolio: [My Portfolio](https://www.ganeshkota.com)
+- Tableau: [Tableau](https://public.tableau.com/app/profile/ganesh.kota2132/vizzes)
 
 ## 😄 Pronouns
 He/Him
