@@ -20,14 +20,13 @@ I'm a skilled Data Scientist with 5+ years of experience in ML model development
 - B.Tech in Electronics and Communication Engineering, Narasaraopeta Engineering College (2013-2017)
 
 ## 💼 Professional Experience
-- Statistical Data Analytics Professor at Saint Louis Unoversity (01/2023 - 05/2024)
-- Data Scientist at Robert Half (04/2024 – Present)
-- Data Scientist at Intel (01/2022 – 07/2022)
-- Data Scientist at Microsoft (02/2019 – 05/2021)
-- Data Scientist at TCS (05/2017 – 12/2018)
+- Statistical Data Analytics Assistant/ Professor at Saint Louis Unoversity (02/2023 - Present)
+- Data Scientist/Analyst at Intel (01/2022 – 07/2022)
+- Data Scientist/Analyst at Microsoft (02/2019 – 05/2021)
+- Data Scientist/Analyst at TCS (05/2017 – 12/2018)
 
 ## 👀 I'm interested in ...
-- Advanced Machine Learning and AI applications
+- Advanced Machine Learning, Deep Learning and GenAI applications
 - Big Data Analytics and Cloud Computing
 - Natural Language Processing and Computer Vision
 
