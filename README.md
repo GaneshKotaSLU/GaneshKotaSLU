@@ -40,20 +40,11 @@ I'm a skilled Data Scientist with 5+ years of experience in ML model development
 - Research in AI and Machine Learning
 - Innovative applications of NLP and Computer Vision
 
-## 📫 How to reach me
-- Email: ganeshkota.4all@gmail.com
-- Phone: (314)-229-2191
+## 📫 Additional Sites
 - LinkedIn: [Ganesh Kota](http://www.linkedin.com/in/ganesh-kota)
 - Portfolio: [My Portfolio](https://www.ganeshkota.com)
+- HuggingFace: [My HuggingFace Models](https://huggingface.co/ganeshkota/my_churn_model)
 - Tableau: [Tableau](https://public.tableau.com/app/profile/ganesh.kota2132/vizzes)
 
-## 😄 Pronouns
+## Pronouns
 He/Him
-
-## ⚡ Fun fact
-I taught my smart home assistant to respond to "Hey, Computer" in my best Star Trek impression. Now I feel like Captain Picard every time I adjust the thermostat!
-
-
----
-
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions on data science and machine learning!
