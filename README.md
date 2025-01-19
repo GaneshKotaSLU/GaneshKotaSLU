@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Ganesh Kota (@GaneshKotaSLU)!
 
 ## 🚀 About Me
-I'm a skilled Data Scientist with 5+ years of experience in ML model development, Deep Learning, and NLP. Currently pursuing a Master of Science in Data Analytics at Saint Louis University, I bring a wealth of experience from roles at Robert Half, L&T Technological Services, Accenture Solutions, and TCS.
+I'm a skilled Data Scientist with 5+ years of experience in ML model development, Deep Learning, and NLP. Currently pursuing a Master of Science in Data Analytics at Saint Louis University, I bring a wealth of experience from roles at Intel(via L&T Technology Services), Microsoft(via Accenture), and Tata Consultancy Services(via Ikart Digital).
 
 ## 🛠 Technical Skills
 - **Programming Languages:** Python, R, SQL, NoSQL, HTML, CSS, C++, JAVA
