@@ -42,7 +42,7 @@ I'm a skilled Data Scientist with 5+ years of experience in ML model development
 
 ## 📫 Additional Sites
 - LinkedIn: [Ganesh Kota](http://www.linkedin.com/in/ganesh-kota)
-- Portfolio: [My Portfolio](https://www.ganeshkota.com)
+- Website: [Personal site](https://www.ganeshkota.com)
 - HuggingFace: [My HuggingFace Models](https://huggingface.co/ganeshkota/my_churn_model)
 - Data Visualization: [Tableau](https://public.tableau.com/app/profile/ganesh.kota2132/vizzes)
 
