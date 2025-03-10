@@ -112,7 +112,7 @@ I combine technical expertise with business acumen to develop scalable data solu
 Feel free to reach out for collaborations or just a chat about data science and AI!
 
 - **Email**: [ganeshkota.4all@gmail.com](mailto:ganeshkota.4all@gmail.com)
-- **LinkedIn**: [Ganesh Kota](https://www.linkedin.com/in/ganeshkota)
+- **LinkedIn**: [Ganesh Kota](http://www.linkedin.com/in/ganesh-kota)
 - **Website**: [ganeshkota.com](https://ganeshkota.com)
 - **Huggingface**: [huggingface.com](https://huggingface.co/ganeshkota/my_awesome_model)
 
