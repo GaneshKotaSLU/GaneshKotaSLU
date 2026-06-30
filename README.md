@@ -114,7 +114,7 @@ Feel free to reach out for collaborations or just a chat about data science and 
 - **Email**: [ganeshkota.4all@gmail.com](mailto:ganeshkota.4all@gmail.com)
 - **LinkedIn**: [Ganesh Kota](http://www.linkedin.com/in/ganesh-kota)
 - **Website**: [ganeshkota.com](https://ganeshkota.com)
-- **Huggingface**: [huggingface.com](https://huggingface.co/ganeshkota/my_awesome_model)
+- **Huggingface**: [huggingface.com](https://huggingface.co/ganeshkota)
 
 
 ---
