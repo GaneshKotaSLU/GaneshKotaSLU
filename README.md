@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-Professional with 5+ years of industry experience specializing in machine learning, deep learning, and NLP. Proud to be a class of 2024 Master of Science in  Analytics from Saint Louis University, with professional experience at Intel (via L&T Technology Services), Microsoft (via Accenture), and Tata Consultancy Services (via Ikart Digital).
+Professional with 5+ years of industry experience specializing in machine learning, deep learning, and NLP. Proud to be a class of 2024 Master of Science in  Analytics from Saint Louis University, with professional experience at Intel (via L&T Technology Services), Microsoft (via Accenture), and Google (via Ikart Digital).
 
 I combine technical expertise with business acumen to develop scalable data solutions that drive strategic decision-making and business growth.
 
@@ -24,9 +24,9 @@ I combine technical expertise with business acumen to develop scalable data solu
 | Role | Company | Duration |
 |------|---------|----------|
 | **Adjunct Faculty/ Statistical Data Analytics Assistant** | Saint Louis University | 02/2023 - Present |
-| **Data Scientist / Analyst** | Intel (via L&T Technology Services) | 01/2022 - 07/2022 |
-| **Data Scientist / Analyst** | Microsoft (via Accenture) | 02/2019 - 05/2021 |
-| **Data Scientist / Analyst** | TCS (via Ikart Digital) | 05/2017 - 12/2018 |
+| **Engineer** | Intel (via L&T Technology Services) | 01/2022 - 07/2022 |
+| **Application Development Analyst** | Microsoft (via Accenture) | 02/2019 - 05/2021 |
+| **Data Analyst** | Google (via Ikart Digital) | 05/2017 - 12/2018 |
 
 ## 🛠️ Technical Skills
 
