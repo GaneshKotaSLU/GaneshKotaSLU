@@ -80,7 +80,7 @@ I combine technical expertise with business acumen to develop scalable data solu
 
 ## 🏆 Achievements
 
-- **Founder** of PigeonGo Atok Private Limited
+- **CEO** of PigeonGo Atok Private Limited
 - **Microsoft Azure Fundamentals** Certification
 - **Databricks for Data Engineering** Certification
 - **Generative AI Fundamentals** from Databricks
